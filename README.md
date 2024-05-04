@@ -1,6 +1,6 @@
 ### Introduction
 
-🖐🏼 Hi! I'm Sanya, a Data Analyst. 
+🖐🏼 Hi! I'm Sanya.
 
 🛠️ Take a look at my [portfolio](https://github.com/SanyaGubrani/Portfolio) to see my projects!
 
