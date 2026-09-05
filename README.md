@@ -1,1 +1,1 @@
-![Sponge GIF](sponge.gif)
+![Cat GIF](cat.gif)
